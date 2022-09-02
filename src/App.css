@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.Table_wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: lightcyan;
+}
+
+th {
+  width: 150px;
+  height: 70px;
+}
